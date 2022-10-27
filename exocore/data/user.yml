@@ -19,7 +19,9 @@ welcome_header: Gray Egret
 
 
 # The subtitle to the above header on your homepage:
-welcome_subtitle: my heart is touched by the egret
+welcome_subtitle: |
+  | an array of egrets aloft, came towards the western marsh - visitors of mine came to stay, their plumage like egrets
+  | 振鷺于飛、于彼西雝、我客戾止、亦有斯容 
 
 
 # Include the Viral Public License at the bottom of your posts (Accepts true/false). Read more about the VPL at https://viralpubliclicense.org.
